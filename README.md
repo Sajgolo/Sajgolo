@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Szymon
 - 🛠️ I’m interested in Programing
 - 🌱 I’m currently learning  HTML and CSS
-- 💞️ I’m looking to collaborate on none :)
 - 📫 How to reach me Write to me
 - 🎓 Languages : Polisch⬜🟥, Englisch
 
