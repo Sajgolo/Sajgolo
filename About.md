@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Szymon
+-  Hi, I’m Sajgon 
 - 🛠️ I’m interested in Frontend DEV
-- 🌱 I’m currently learning  HTML and CSS
-- 📫 How to reach me Write to me
-- 🎓 Languages : Polisch⬜🟥, Englisch
+- 🌱 What I"m currently learning?  HTML, CSS and some JS.
+-  How you can catch me?  Write to me on Discord:  ._sajgon_. 
+- 🎓 Languages: Polisch⬜🟥 and Englisch
 
 
 <!---
